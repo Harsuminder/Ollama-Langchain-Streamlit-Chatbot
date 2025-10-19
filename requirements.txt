@@ -1,6 +1,8 @@
 streamlit
 langchain
+langsmith
 langchain-community
 langchain-core
 ollama
 pydantic
+python-dotenv
